@@ -1,5 +1,5 @@
 const CONFIG = {
-  KEY: 'd6499c2e7f98ed4557949c0699263a43',
+  KEY: 'YOUR_API_KEY',
   BASE_URL: 'https://api.themoviedb.org/3/',
   BASE_IMAGE_URL: 'https://image.tmdb.org/t/p/w500/',
   DEFAULT_LANGUAGE: 'en-us',
@@ -7,7 +7,7 @@ const CONFIG = {
   DATABASE_NAME: 'movie-catalogue-database',
   DATABASE_VERSION: 1,
   OBJECT_STORE_NAME: 'movies',
-  WEB_SOCKET_SERVER: 'wss://movies-feed.dicoding.dev',
+  WEB_SOCKET_SERVER: 'wss://stormy-badlands-06326.herokuapp.com',
 };
 
 export default CONFIG;
